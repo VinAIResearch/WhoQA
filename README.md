@@ -1,7 +1,3 @@
-##### Table of contents
-1. [Dataset](#Dataset) 
-2. [Acknowledgments](#Acknowledgments)
-
 # Who’s Who: Large Language Models Meet Knowledge Conflicts in Practice ([EMNLP 2024 Findings](https://2024.emnlp.org/program/accepted_findings/))
 
 
