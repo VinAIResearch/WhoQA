@@ -10,7 +10,7 @@ Retrieval-augmented generation (RAG) methods are viable solutions for addressing
 
 ![overview](docs/conflict_demonstration_short.pdf)
 
-Details of the model architecture and experimental results can be found in [our paper]():
+Details of the dataset and experimental results can be found in [our paper]():
 ```bibtext
 @inproceedings{pham_whoqa,
   title={Who’s Who: Large Language Models Meet Knowledge Conflicts in Practice},
