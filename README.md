@@ -1,4 +1,4 @@
-# Who’s Who: Large Language Models Meet Knowledge Conflicts in Practice ([EMNLP 2024 Findings](https://2024.emnlp.org/program/accepted_findings/))
+# WhoQA: A Benchmark Dataset for Assessing LLMs' Ability to Handle Knowledge Conflicts
 
 
 > **Abstract**: 
@@ -8,7 +8,7 @@ Retrieval-augmented generation (RAG) methods are viable solutions for addressing
 <img width="600" src="docs/KnowledgeConflict_Illustration.png">
 </p>
 
-Details of the dataset construction and experimental results can be found in [our paper]():
+Details of the dataset construction and experimental results can be found in [our EMNLP 2024 Findings paper]():
 
 ```bibtext
 @inproceedings{WhoQA,
@@ -19,13 +19,13 @@ Details of the dataset construction and experimental results can be found in [ou
 }
 ```
 
-Please CITE our [paper]() whenever this repository is used to help produce published results or incorporated into other software.
+Please CITE our paper whenever this repository is used to help produce published results or incorporated into other software.
 
 By downloading the WhoQA dataset, __USER agrees__:
 
 * *to use WhoQA for research or educational purposes only.*
 * *to not distribute WhoQA or part of WhoQA in any original or modified form.*
-* *and to cite our paper "Who's Who: Large Language Models Meet Knowledge Conflicts in Practice" whenever WhoQA is employed to help produce published results.*
+* *and to cite our EMNLP 2024 Findings paper "Who's Who: Large Language Models Meet Knowledge Conflicts in Practice" whenever WhoQA is employed to help produce published results.*
 
 ### Copyright (c) 2024 VinAI
 
