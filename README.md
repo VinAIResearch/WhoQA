@@ -8,7 +8,7 @@ Retrieval-augmented generation (RAG) methods are viable solutions for addressing
 <img width="600" src="docs/KnowledgeConflict_Illustration.png">
 </p>
 
-Details of the dataset construction and experimental results can be found in [our EMNLP 2024 Findings paper]():
+Details of the dataset construction and experimental results can be found in [our EMNLP 2024 Findings paper](https://arxiv.org/abs/2410.15737):
 
 ```bibtext
 @inproceedings{WhoQA,
