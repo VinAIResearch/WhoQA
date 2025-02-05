@@ -21,12 +21,6 @@ Details of the dataset construction and experimental results can be found in [ou
 
 Please CITE our paper whenever this repository is used to help produce published results or incorporated into other software.
 
-By downloading the WhoQA dataset, __USER agrees__:
-
-* *to use WhoQA for research or educational purposes only.*
-* *to not distribute WhoQA or part of WhoQA in any original or modified form.*
-* *and to cite our EMNLP 2024 Findings paper "Who's Who: Large Language Models Meet Knowledge Conflicts in Practice" whenever WhoQA is employed to help produce published results.*
-
 ### Copyright (c) 2024 VinAI
 
 	THE DATA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
